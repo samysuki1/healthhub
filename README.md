@@ -1,0 +1,1 @@
+Enterprise Challenge: Projeto de Front-end homepage para apresentação de atividade do curso de Sistemas para Internet - FIAP, testes com AZURE FHIR exemplos de instâncias, "resourceType": "MedicationRequest" para implementar a página "Prescrições".
