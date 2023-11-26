@@ -15,4 +15,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - Python
 
-Testes com AZURE FHIR exemplos de instâncias, "resourceType": "MedicationRequest" para implementar a página "Prescrições".
+Testes:
+
+- AZURE FHIR 
+
+Exemplos de instâncias, "resourceType": "MedicationRequest" para implementar a página "Prescrições".
